@@ -1,6 +1,6 @@
 # :seedling: GenoRobotics 
 
-## Introduction 
+## 🕵️Introduction 
 
 Biodiversity preservation has become a major challenge of the XXIst century. The classical conservation and taxonomy approach no longer fit with the emergency of the situation. To fill the gap between new genomic conservation approaches and DNA sequencing technologies, GenoRobotics is developing a miniaturized tool to automatically process biological samples into the field and accelerate biodiversity identification.
 
