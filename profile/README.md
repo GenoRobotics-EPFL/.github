@@ -20,9 +20,13 @@ Other steps of the pipeline are also optimized with bioinformatics, such as the 
 ## :muscle:Main repos
 
 🛠️ [utils:](https://github.com/GenoRobotics-EPFL/utils) general functions for dealing with raw fastq reads, calling bash commands, requesting genetic sequences online from GenBank, etc.
+
 🧬 [Consensus:](https://github.com/GenoRobotics-EPFL/Consensus) as described above
+
 🌿 [Identification:](https://github.com/GenoRobotics-EPFL/Identification) as described above
+
 🌐 [Database:](https://github.com/GenoRobotics-EPFL/Database) as described above
+
 🤖 [run-pipeline:](https://github.com/GenoRobotics-EPFL/run-pipeline) combine all functionalities into notebooks that can be run on raw sequencing data
 👨‍🏫 [Training:](https://github.com/GenoRobotics-EPFL/Training) Resources for students to get started in the project with resources on the underlying biology, basic bioinformatics, collaborative coding with Github, etc.
 
