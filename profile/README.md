@@ -1,6 +1,6 @@
 # :seedling: GenoRobotics 
 
-![myImage](Photomontage_jungle.jpg)
+![myImage](profile/Photomontage_jungle.jpg)
 
 ## 🕵️Introduction 
 
